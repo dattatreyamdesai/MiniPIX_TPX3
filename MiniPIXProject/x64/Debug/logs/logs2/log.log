@@ -1,0 +1,31 @@
+################# LOG OPENED (15/11/24 11:28:12.673) ###################### 
+(15/11/24 11:28:12.677) [core]: Initializing Pixet (1.8.2 Build 1c84034a (240319) Mar 19 2024, SDK)
+(15/11/24 11:28:12.677) [core]: Loading hw libraries (1)...
+(15/11/24 11:28:12.695) [core]: Added hw library minipix.dll
+(15/11/24 11:28:16.036) [core]: Initializing HW library minipix.dll (1 devices)...
+(15/11/24 11:28:16.064) [core]: MiniPIX J05-W0130: Configuration file for chip (C:\Users\z004pj2k\Desktop\HiWi\MiniPIXProject\MiniPIXProject\x64\Debug\configs\MiniPIX-J05-W0130.xml) not found.
+(15/11/24 11:28:16.257) [core]: Stack Trace:
+014:  - 0x0
+013:  - 0x0
+012:  - 0x0
+011:  - 0x0
+010:  - 0x0
+009:  - 0x0
+008:  - 0x0
+007:  - 0x0
+006:  - 0x0
+005:  - 0x0
+004: pxcInitialize - 0x95DDB270
+003: main(8) - C:\Users\z004pj2k\Desktop\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\MiniPIXProject.cpp - 0x2D942330
+002: __scrt_common_main_seh(288) - D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl - 0x2D942B5C
+001: BaseThreadInitThunk - 0x21B67360
+000: RtlUserThreadStart - 0x2287CC70
+
+
+(15/11/24 11:28:20.327) [core]:     MiniPIX J05-W0130 (sn: 2157)
+(15/11/24 11:28:20.328) [core]: Loading plugins (0)...
+(15/11/24 11:28:24.370) [core]: All plugins unloaded.
+(15/11/24 11:28:24.375) [core]: Unloading HW libraries ...
+(15/11/24 11:28:24.379) [core]: Unloading HW library minipix.dll.
+(15/11/24 11:28:24.382) [core]: All HW libraries unloaded.
+(15/11/24 11:28:24.384) [core]: Log closed.

@@ -1,0 +1,3 @@
+################# LOG OPENED (15/11/2024 11:27:15.052) ###################### 
+(15_11:27:15.053) [MSG]: Listing FTDI devices...
+(15_11:27:15.060) [ERR]: Listing FTDI devices failed (2)

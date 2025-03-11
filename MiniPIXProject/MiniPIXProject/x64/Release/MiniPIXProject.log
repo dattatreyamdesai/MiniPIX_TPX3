@@ -1,0 +1,475 @@
+﻿  MiniPIXProject.cpp
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(185,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(185,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(185,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(189,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(189,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(185,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(189,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(189,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(192,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(192,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(189,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(192,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(192,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(195,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(195,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(192,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(195,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(195,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(199,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(199,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(195,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(199,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(199,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(202,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(202,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(199,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(202,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(202,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(206,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(206,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(202,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(206,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(206,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(212,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(212,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(206,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(212,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(212,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(216,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(216,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(212,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(216,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(216,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(223,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(223,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(216,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(223,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(223,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(227,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(227,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(223,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(227,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(227,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(233,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(233,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(227,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(233,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(233,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(238,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(238,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(233,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(238,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(238,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(244,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(244,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(238,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(244,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(244,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(249,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(249,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(244,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(249,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(249,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(255,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(255,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(249,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(255,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(255,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(262,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(262,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(255,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(262,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(262,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(268,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(268,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(262,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(268,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(268,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(275,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(275,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(268,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(275,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(275,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(282,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(282,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(275,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(282,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(282,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(287,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(287,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(282,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(287,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(287,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(292,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(292,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(287,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(292,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(292,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(299,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(299,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(292,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(299,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(299,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(305,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(305,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(299,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(305,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(305,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(310,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(310,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(305,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(310,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(310,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(314,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(314,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(310,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(314,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(314,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(319,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(319,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(314,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(319,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(319,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(323,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(323,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(319,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(323,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(323,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(328,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(328,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(323,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(328,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(328,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(332,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(332,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(328,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(332,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(332,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(337,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(337,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(332,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(337,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(337,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(342,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(342,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(337,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(342,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(342,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(346,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(346,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(342,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(346,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(346,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(355,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(355,1): error C2374: '__attribute__': redefinition; multiple initialization
+  (compiling source file 'MiniPIXProject.cpp')
+      E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(346,1):
+      see declaration of '__attribute__'
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(355,1): error C3861: 'visibility': identifier not found
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(355,8): error C2062: type 'int' unexpected
+  (compiling source file 'MiniPIXProject.cpp')
+  
+E:\NewHiWi\HiWi\MiniPIXProject\MiniPIXProject\MiniPIXProject\pxcapi.h(355,8): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'MiniPIXProject.cpp')
+  
